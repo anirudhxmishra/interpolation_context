@@ -1,6 +1,5 @@
-Of course. Here is a comprehensive `README.md` file for your project, formatted in Markdown for easy use.
 
-# Automated Sports Highlight Generator with Cinematic Slow-Motion
+# Context Based Video FRame Interpolation
 
 This project is an automated system that processes full-length football (soccer) match videos to generate short, social-media-ready highlight reels. It uses a combination of audio-visual analysis to detect key moments and applies generative AI for creating high-quality, cinematic slow-motion effects.
 
